@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samarth R Upadhya
 - 👀 I’m interested in Artificial Intelligence and Machine Learning 
 - 🌱 I’m currently learning Python and web development
-- 💞️ I’m looking to collaborate on Machine learning
+- 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me samarth2845@gmail.com
 
 <!---
